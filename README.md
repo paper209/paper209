@@ -13,3 +13,4 @@
 
 ## 🛠 Projects
  * [BlankLang](https://github.com/paper209/blanklang): A very simple experimental programming language interpreter implemented in Zig.
+ * [Tor Connect](https://github.com/paper209/tor-connect): A Tor based persistent client network that distributes validated proxy updates to connected clients.
